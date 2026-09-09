@@ -432,25 +432,6 @@ This project provided practical experience with:
 
 ---
 
-# 📂 Repository Structure
-
-```text
-Cisco-Switch-Basic-Configuration/
-│
-├── README.md
-│
-├── screenshots/
-│   ├── topology.png
-│   ├── console.png
-│   ├── configuration.png
-│   ├── management-ip.png
-│   ├── running-config.png
-│   └── startup-config.png
-│
-└── Cisco-Switch-Basic-Configuration.pkt
-```
-
----
 
 # 📥 How to Use
 
